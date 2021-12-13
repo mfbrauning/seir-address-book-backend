@@ -17,8 +17,6 @@ Model: Contact
 
 ## Route Table
 
-List your routes in a table
-
 | url | method | action |
 |-----|--------|--------|
 | /contacts | GET | get all contacts (index) |
